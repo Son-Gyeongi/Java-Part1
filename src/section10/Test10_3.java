@@ -2,6 +2,7 @@ package section10;
 
 import java.util.Scanner;
 
+// [필수실습 10-3] 최댓값 구하기 (서바이벌 방식)
 public class Test10_3 {
     static void main() {
         Scanner sc = new Scanner(System.in);
