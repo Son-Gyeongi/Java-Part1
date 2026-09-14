@@ -7,7 +7,7 @@ public class Exec122 {
             for (int j = 0; j < i + 1; j++) {
                 System.out.print("*\t");
             }
-            System.out.println('\n');
+            System.out.print('\n');
         }
     }
 }
