@@ -1,7 +1,7 @@
 package section13;
 
 // [필수실습 13-4] 행과 열의 합 구하기
-public class Exec133 {
+public class Exec134 {
     static void main(String[] args) {
         int[][] array = {
                 {10, 20, 30, 0},
